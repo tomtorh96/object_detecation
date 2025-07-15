@@ -1,4 +1,4 @@
-# Project Dataset and Training Notebooks
+# computer vision project
 
 This project contains two main Jupyter notebooks:
 
